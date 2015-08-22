@@ -1,0 +1,3 @@
+load("/Users/shihchosen/Documents/R/R-workplace/learn_shiny/censusVis-1/counties.rds")
+load("/Users/shihchosen/Documents/R/R-workplace/learn_shiny/censusVis-1/counties.rds")
+R.home('bin')
